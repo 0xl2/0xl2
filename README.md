@@ -1,5 +1,4 @@
 <p align="center"><h2>Welcome to my github profile !!</h2></p>
-<hr/>
 
 <p align="center">
   <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="Build Status"></a>

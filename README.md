@@ -49,8 +49,8 @@ Bachelor's Degree
 
 ## Experience
 
-**Blockchain Developer, Co-Founder (with Rey) | KORITSUKI**\
-Aug 2020 – Present
+**Blockchain Developer, Team member | KORITSUKI**\
+Aug 2020 – Jun 2021
 
 ✓ Ethereum Smart Contracts
 - Designed and developed the smart contracts using the Solidity and implemented test scripts on the smart contracts using the truffle and hardhat frameworks.
@@ -65,21 +65,22 @@ Aug 2020 – Present
 - Cardano Workshop (Discord Project – Open Source)
 - CNFTs (By Cardano CLI)
 
-**Smart Contracts Developer | BANCOR NETWORK**\
-Apr 2021 – Jun 2021
+**NFT marketplace | Cardano Workshop**\
+Apr 2021 – Sep 2021
 
-✓ bancorprotocol / webapp-v2
-
-✓ bancorprotocol / contracts-solidity
+✓ Cardano network
+✓ Plutus smart contract development
 - Optimized, maintained protocol smart contracts & webapp.
 
-**Smart Contracts Developer | DEFI PRIME**\
-Sep 2018 – Nov 2019
+**Web and Desktop app developer | Freelancing**\
+Sep 2014 – Nov 2019
 
-✓ Defi Ecosystem Development
-- Participated in Token Lists development. (Frontend and Backend)
-- Developed Prime Ledger smart contracts.
-- Optimized Prime Ledge smart contract code and efficiency.
+✓ Web app development using python/flask/django
+✓ CTR/CRM/POS web app using C#/.net/vb.net
+✓ Casino/Sports betting app using MERN/MEPN
+✓ Web scraping
+✓ Php/laravel, Typescript
+
 
 ## Skills
 <div align="center">

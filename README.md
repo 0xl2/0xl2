@@ -10,13 +10,13 @@
 <p align='center'>
 Experienced Developer professional with strong leadership and relationship-building skills. 
 <br>
-Certified Blockchain Developer, experience in developing Decentralized Blockchain applications using Ethereum, Solana, Polygon and Cardano. A fan of Cardano and Charles Hoskinson.
+Experience in developing Decentralized Blockchain applications using Ethereum, Solana, Polkadot/Substrate and Cardano. A fan of Polkadot/Substrate and Cardano.
 <br><br>
 </p>
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=takemurakimio&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=abe-sinjiro&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>

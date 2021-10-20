@@ -49,7 +49,7 @@ Bachelor's Degree
 
 ## Experience
 
-**Blockchain Developer, Team member | KORITSUKI**\
+**Blockchain Developer, Team member | Soft Premier**\
 Aug 2020 – Jun 2021
 
 ✓ Ethereum Smart Contracts

@@ -68,17 +68,17 @@ Aug 2020 – Jun 2021
 **NFT marketplace | Cardano Workshop**\
 Apr 2021 – Sep 2021
 
-✓ Cardano network
+✓ Cardano network\
 ✓ Plutus smart contract development
 - Optimized, maintained protocol smart contracts & webapp.
 
 **Web and Desktop app developer | Freelancing**\
 Sep 2014 – Nov 2019
 
-✓ Web app development using python/flask/django
-✓ CTR/CRM/POS web app using C#/.net/vb.net
-✓ Casino/Sports betting app using MERN/MEPN
-✓ Web scraping
+✓ Web app development using python/flask/django\
+✓ CTR/CRM/POS web app using C#/.net/vb.net\
+✓ Casino/Sports betting app using MERN/MEPN\
+✓ Web scraping\
 ✓ Php/laravel, Typescript
 
 

@@ -82,6 +82,10 @@ Sep 2014 – Nov 2019
 ✓ Php/laravel, Typescript
 
 
+## Favorite Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abe-sinjiro&theme=radical&hide_border=true&count_private=true&langs_count=10)](https://github.com/abe-sinjiro)
+
+
 ## Skills
 <div align="center">
   <div style="display: flex; justify-content: space-between;">

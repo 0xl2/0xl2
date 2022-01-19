@@ -5,17 +5,6 @@
 </h1>
 
 <p align='center'>
-  A Blockchain/Smart Contract Developer/Consultant.
-</p>
-<p align='center'>
-Experienced Developer professional with strong leadership and relationship-building skills. 
-<br>
-Experience in developing Decentralized Blockchain applications using Ethereum, Solana, Polkadot/Substrate and Cardano. A fan of Polkadot/Substrate and Cardano.
-<br><br>
-</p>
-
-
-<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=abe-sinjiro&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
@@ -37,50 +26,6 @@ Experience in developing Decentralized Blockchain applications using Ethereum, S
 <p align='center'>
   📫 How to reach me: <a href='mailto:abe.sinjiro7@gmail.com'>abe.sinjiro7@gmail.com</a>
 </p>
-
-## Education
-
-**Computer Science | ShenShu University**\
-Apr 2011 – Mar 2015
-
-Studied Computer Science\
-Attended from Apr 2011 – Mar 2015\
-Bachelor's Degree
-
-## Experience
-
-**Blockchain Developer, Team member | Soft Premier**\
-Aug 2020 – Jun 2021
-
-✓ Ethereum Smart Contracts
-- Designed and developed the smart contracts using the Solidity and implemented test scripts on the smart contracts using the truffle and hardhat frameworks.
-- Optimized the smart contract code and increased the efficiency by 15%, using the library functionalities of the solidity.
-
-✓ Personal Projects (Shared with company)
-- Sealed-Bid Auction (Ethereum, Polygon)
-- Aave Health Checker (Based on Aave)
-- KTSwap (Based on Uniswap v2)
-- KTSerum (Based on Solana Serum)
-- Alonzo Testnet Contract Test (Cardano)
-- Cardano Workshop (Discord Project – Open Source)
-- CNFTs (By Cardano CLI)
-
-**NFT marketplace | Cardano Workshop**\
-Apr 2021 – Sep 2021
-
-✓ Cardano network\
-✓ Plutus smart contract development
-- Optimized, maintained protocol smart contracts & webapp.
-
-**Web and Desktop app developer | Freelancing**\
-Sep 2014 – Nov 2019
-
-✓ Web app development using python/flask/django\
-✓ CTR/CRM/POS web app using C#/.net/vb.net\
-✓ Casino/Sports betting app using MERN/MEPN\
-✓ Web scraping\
-✓ Php/laravel, Typescript
-
 
 ## Favorite Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abe-sinjiro&theme=radical&hide_border=true&count_private=true&langs_count=10)](https://github.com/abe-sinjiro)

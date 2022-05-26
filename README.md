@@ -9,10 +9,6 @@
 </p>
 
 <p align='center'>
-  Do you like my open source projects? Your stars would be very helpful for me, please <a href='https://stars.github.com/nominate/'>nominate me to Github Stars ⭐</a>
-</p>
-
-<p align='center'>
   
   <a href="https://www.linkedin.com/in/abe-sinjiro/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />

@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=abe-sinjiro&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=naruto0913&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
@@ -24,7 +24,7 @@
 </p>
 
 ## Favorite Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abe-sinjiro&theme=radical&hide_border=true&count_private=true&langs_count=10)](https://github.com/abe-sinjiro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naruto0913&theme=radical&hide_border=true&count_private=true&langs_count=10)](https://github.com/naruto0913)
 
 
 ## Skills

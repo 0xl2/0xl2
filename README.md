@@ -20,7 +20,7 @@
 </p>
 
 ## Favorite Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naruto0913&theme=radical&hide_border=true&count_private=true&langs_count=10)](https://github.com/naruto0913)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naruto0913&theme=radical&hide_border=true&count_private=true&langs_count=5)](https://github.com/naruto0913)
 
 
 ## Skills

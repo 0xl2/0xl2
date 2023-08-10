@@ -8,8 +8,6 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=naruto0913&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naruto0913&label=Profile%20views&color=0e75b6&style=flat" alt="naruto0913" /> </p>
-
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/abe-sinjiro/">
@@ -24,6 +22,7 @@
 ## Favorite Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naruto0913&theme=radical&hide_border=true&count_private=true&langs_count=5)](https://github.com/naruto0913)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naruto0913&label=Profile%20views&color=0e75b6&style=flat" alt="naruto0913" /> </p>
 
 ## Skills
 <div align="center">

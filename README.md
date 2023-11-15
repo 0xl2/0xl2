@@ -1,5 +1,5 @@
 
-
+<!--
 <h1 align='center'>
   Welcome to my github profile! 👋
 </h1>
@@ -7,21 +7,23 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=naruto0913&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
-
-<p align='center'>
+-->
+<p>
   
   
   <a href="https://t.me/abesinjiro">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>
   
 </p>
 
+
 ## Favorite Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naruto0913&theme=radical&hide_border=true&count_private=true&langs_count=5)](https://github.com/naruto0913)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naruto0913&theme=radical&hide_border=true&count_private=true&langs_count=2)](https://github.com/naruto0913)
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naruto0913&label=Profile%20views&color=0e75b6&style=flat" alt="naruto0913" /> </p>
-
+-->
 ## Skills
 <div align="center">
   <div style="display: flex; justify-content: space-between;">

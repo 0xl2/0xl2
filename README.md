@@ -14,7 +14,10 @@
   <a href="https://t.me/abesinjiro">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  
+
+  <a href="https://discord.com/users/986184897154670622">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 

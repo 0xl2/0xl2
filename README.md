@@ -26,7 +26,7 @@
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naruto0913&label=Profile%20views&color=0e75b6&style=flat" alt="naruto0913" /> </p>
--->
+
 ## Skills
 <div align="center">
   <div style="display: flex; justify-content: space-between;">
@@ -37,3 +37,4 @@
     <img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </div>
 </div>
+-->

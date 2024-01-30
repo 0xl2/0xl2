@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=0xtraderjoe&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=0xl2&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p>
@@ -23,10 +23,10 @@
 -->
 
 ## Favorite Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xtraderjoe&theme=radical&hide_border=true&count_private=true&langs_count=2)](https://github.com/0xtraderjoe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xl2&theme=radical&hide_border=true&count_private=true&langs_count=2)](https://github.com/0xl2)
 
 <!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xtraderjoe&label=Profile%20views&color=0e75b6&style=flat" alt="0xtraderjoe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xl2&label=Profile%20views&color=0e75b6&style=flat" alt="0xl2" /> </p>
 
 ## Skills
 <div align="center">
